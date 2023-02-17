@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="quanLyduan" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-STP7EL7\SQLEXPRESS;Initial Catalog=quanLyduan;Integrated Security=True" SettingsObjectName="BaiTapLon.Properties.Settings" SettingsPropertyName="quanLyduanConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Category" Member="Categories">
+    <Type Name="Category">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Alias" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ParentID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreatedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="[Order]" Member="Order" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSinhVien" Member="tblSinhViens">
+    <Type Name="tblSinhVien">
+      <Column Name="sMaSV" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sHoten" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="sMakhoa" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="dNgaysinh" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="sGioitinh" Type="System.String" DbType="NVarChar(3)" CanBeNull="true" />
+      <Column Name="sQuequan" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="tblSinhVien_tblHuongDan" Member="tblHuongDan" ThisKey="sMaSV" OtherKey="sMasv" Type="tblHuongDan" Cardinality="One" />
+      <Association Name="tblKhoa_tblSinhVien" Member="tblKhoa" ThisKey="sMakhoa" OtherKey="sMakhoa" Type="tblKhoa" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product" Member="Products">
+    <Type Name="Product">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Alias" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CategoryID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Images" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="CreatedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Price" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Detail" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.taikhoan" Member="taikhoans">
+    <Type Name="taikhoan">
+      <Column Name="tenTK" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="matkhau" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblDeTai" Member="tblDeTais">
+    <Type Name="tblDeTai">
+      <Column Name="sMadt" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sTendt" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="tblDeTai_tblHuongDan" Member="tblHuongDans" ThisKey="sMadt" OtherKey="sMadt" Type="tblHuongDan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblGiangVien" Member="tblGiangViens">
+    <Type Name="tblGiangVien">
+      <Column Name="sMaGV" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sMakhoa" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="sTenGV" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="sGT" Type="System.String" DbType="NVarChar(3)" CanBeNull="true" />
+      <Column Name="sSoDT" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="taikhoan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="matkhau" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="tblGiangVien_tblHuongDan" Member="tblHuongDans" ThisKey="sMaGV" OtherKey="sMagv" Type="tblHuongDan" />
+      <Association Name="tblKhoa_tblGiangVien" Member="tblKhoa" ThisKey="sMakhoa" OtherKey="sMakhoa" Type="tblKhoa" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblHuongDan" Member="tblHuongDans">
+    <Type Name="tblHuongDan">
+      <Column Name="sMasv" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sMadt" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="sMagv" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="dNgayBD" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dNgayBaoCao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="sKetqua" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="tblDeTai_tblHuongDan" Member="tblDeTai" ThisKey="sMadt" OtherKey="sMadt" Type="tblDeTai" IsForeignKey="true" />
+      <Association Name="tblGiangVien_tblHuongDan" Member="tblGiangVien" ThisKey="sMagv" OtherKey="sMaGV" Type="tblGiangVien" IsForeignKey="true" />
+      <Association Name="tblSinhVien_tblHuongDan" Member="tblSinhVien" ThisKey="sMasv" OtherKey="sMaSV" Type="tblSinhVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblKhoa" Member="tblKhoas">
+    <Type Name="tblKhoa">
+      <Column Name="sMakhoa" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sTenkhoa" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="sDienthoai" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="sDiaChi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblKhoa_tblSinhVien" Member="tblSinhViens" ThisKey="sMakhoa" OtherKey="sMakhoa" Type="tblSinhVien" />
+      <Association Name="tblKhoa_tblGiangVien" Member="tblGiangViens" ThisKey="sMakhoa" OtherKey="sMakhoa" Type="tblGiangVien" />
+    </Type>
+  </Table>
+</Database>

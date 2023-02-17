@@ -1,0 +1,173 @@
+D:\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\BaiTapLon\BaiTapLon\bin\Debug\vi\BaiTapLon.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.Shared.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.Web.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\FlashControlV71.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\EnvDTE.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\VsWebSite.Interop.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\EnvDTE80.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\stdole.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe.config
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.dangNhap.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.deTai.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.giangVien.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.huongDan.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.timKiem.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.khoa.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Main.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.sinhVien.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.sinhVien.vi.resources
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\BaiTapLon\BaiTapLon\obj\Debug\vi\BaiTapLon.resources.dll
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CopyComplete
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\vi\BaiTapLon.resources.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Shared.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Web.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\FlashControlV71.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.csprojResolveAssemblyReference.cache
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.csproj.BaiTapLon.exe.config
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.dangNhap.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.deTai.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.giangVien.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.huongDan.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.timKiem.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.khoa.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.Main.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.sinhVien.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.sinhVien.vi.resources
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.Cache
+D:\File quang trong\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\vi\BaiTapLon.resources.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\vi\BaiTapLon.resources.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Shared.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Web.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\FlashControlV71.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.csprojResolveAssemblyReference.cache
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.csproj.BaiTapLon.exe.config
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.dangNhap.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.deTai.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.giangVien.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.huongDan.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.timKiem.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.khoa.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.Main.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.sinhVien.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.sinhVien.vi.resources
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.Cache
+D:\huynhthanhdiep_nhom2_CCQ2011H\BaiTapLon\obj\Debug\vi\BaiTapLon.resources.dll
